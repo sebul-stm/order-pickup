@@ -1,2 +1,2 @@
 # order-pickup
-STM API Rela
+STM API Relay
